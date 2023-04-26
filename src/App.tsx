@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 style={{background:'rose'}}>Ambiente de QA</h1>
+      <h1 style={{background:'blue'}}>Ambiente de Produccion</h1>
       <Counter jugadoresDeFutbol={jugadoresDeFutbol} sumar={sumar} saludar={saludar} />
 
       <p>Bienvenido a vercion V1.0 de la app</p>
