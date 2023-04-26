@@ -29,6 +29,9 @@ function App() {
     <div className="App">
       <h1 style={{background:'yellow'}}>Ambiente de Desarrollo</h1>
       <Counter jugadoresDeFutbol={jugadoresDeFutbol} sumar={sumar} saludar={saludar} />
+
+      <p>Bienvenido a vercion V1.0 de la app</p>
+
     </div>
   );
 }
