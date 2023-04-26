@@ -24,11 +24,12 @@ function App() {
     }
    ]
 
-   
+
   return (
     <div className="App">
-      <h1 style={{background:'yellow'}}>Ambiente de Desarrollo</h1>
+      <h1 style={{background:'rose'}}>Ambiente de QA</h1>
       <Counter jugadoresDeFutbol={jugadoresDeFutbol} sumar={sumar} saludar={saludar} />
+      
     </div>
   );
 }
